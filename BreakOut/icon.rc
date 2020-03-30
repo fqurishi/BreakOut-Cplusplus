@@ -1,0 +1,7 @@
+MAINICON ICON "icon.ico"
+SOUND1 RCDATA "uhoh.wav"
+SOUND2 RCDATA "impact.wav"
+SOUND3 RCDATA "bounce.wav"
+SOUND4 RCDATA "select.wav"
+SOUND5 RCDATA "bgSound.wav"
+FONT1 RCDATA "8-BIT.ttf"
