@@ -1,5 +1,7 @@
 # BreakOut-Cplusplus
 Created Atari game BreakOut from scratch in C++ using SFML library. Sound included.  
+
+![alt-text](https://i.imgur.com/D5FaKbj.gif)
   
 Feel free to checkout code and try it out for yourself.  
 Download .exe files in /BreakOut/bin/Release/  
